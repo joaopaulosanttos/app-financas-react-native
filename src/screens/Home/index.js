@@ -10,7 +10,7 @@ import dataList from "../../dataList";
 export default function Home() {
     return(
         <View style={styles.container}>
-            <Header name="Mateus A. Carvalho" />
+            <Header name="João P. Santos" />
 
             <Balance deposit="3.860,90" expenses="-687,45" />
 
